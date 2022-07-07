@@ -1,5 +1,5 @@
 # segundaActividad
-Manuel
+Manuel Lopez
 Vero Valdez
 
 Carlos Hernandez, Hola amiguitos
