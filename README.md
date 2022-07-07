@@ -1,2 +1,3 @@
 # segundaActividad
 Manuel
+Vero Valdez
